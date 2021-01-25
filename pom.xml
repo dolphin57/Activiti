@@ -714,6 +714,7 @@
 
 	<modules>
 		<module>modules/activiti-bpmn-model</module>
+		<module>modules/activiti-ui</module>
 		<module>modules/activiti-process-validation</module>
 		<module>modules/activiti-bpmn-layout</module>
 		<module>modules/activiti-image-generator</module>
