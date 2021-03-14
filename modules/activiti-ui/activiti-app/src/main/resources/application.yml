@@ -1,0 +1,13 @@
+#禁用liquibase（用于数据库重构和迁移的开源工具）
+liquibase:
+  enabled: false
+#模板路径
+spring:
+  freemarker:
+    check-template-location: false
+  activiti:
+    check-process-definitions: false
+#端口
+server:
+  port: 9999
+  context-path: "/activiti-app"
